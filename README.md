@@ -1,4 +1,10 @@
-### Hi there 👋
+##Introduce
+이름 : 안희진
+관심 분야 : Computer Vision, Data Analysis 
+
+##Contact
+이메일 : dksgmlwlsim@gmail.com 
+
 
 <!--
 **dksgmlwls/dksgmlwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
