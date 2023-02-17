@@ -1,9 +1,9 @@
-##Introduce
-이름 : 안희진
-관심 분야 : Computer Vision, Data Analysis 
+Introduce
+- 이름 : 안희진
+- 관심 분야 : Computer Vision, Data Analysis 
 
-##Contact
-이메일 : dksgmlwlsim@gmail.com 
+Contact
+- 이메일 : dksgmlwlsim@gmail.com 
 
 
 <!--
